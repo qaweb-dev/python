@@ -1,0 +1,9 @@
+a=3
+b=4
+c=a+b
+print(c)
+k,m=a,b
+print(k+m)
+s="Hello"
+z="student"
+print(s+", "+z)
